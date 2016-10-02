@@ -1,2 +1,2 @@
-herotut
+Hero Tutorial
 
